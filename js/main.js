@@ -1,1 +1,1 @@
-// Add all your JS here
+console.log("hi");
